@@ -1,8 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm MUHAMMED MUHZIN T S</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhzinmuhammed&label=Profile%20views&color=0e75b6&style=flat" alt="muhzinmuhammed" /> </p>
 
@@ -16,6 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammed-muhzin-ts/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammed-muhzin-ts/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/muhzinsidhiq333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/muhzinsidhiq333" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/devmuhzigui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="devmuhzigui" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
